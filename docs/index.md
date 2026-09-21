@@ -14,8 +14,6 @@
 ## 各回のレジュメ
 
 - [第1回 デザインという近代の発明](lectures/01-what-is-design.md) — 身近な事例からデザインの意味と範囲を考える
-- [第2回 産業革命と生産・工芸・生活](lectures/02-industrial-revolution.md) — 産業革命による生産・工芸・生活の変化を学ぶ
-- [第3回 機能主義と標準化](lectures/03-functionalism-standardization.md) — 機能主義と標準化が描いた社会像を読み解く
 
 全15回の日程とテーマは[授業日程](schedule.md)にあります。レジュメは各回の授業前に公開します。
 
