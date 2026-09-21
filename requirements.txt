@@ -1,0 +1,2 @@
+# サイトのビルドに必要なもの。GitHub Actions もこれを読む。
+mkdocs-material>=9.7,<10
