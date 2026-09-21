@@ -99,6 +99,8 @@
 
 ### 講義を通して使うリンク
 
+- **[事例集](cases.md)** — 講義で触れるプロジェクトの公式ページ。写真と映像はここから
+
 - [Historical Tech Tree](https://www.historicaltechtree.com/) — 技術の系譜をたどれる対話型の図。
   第1回・第2回・第14回で使います
 - [V&A Collections](https://collections.vam.ac.uk/) — 近代デザイン史の作品を実物の写真で確認できます

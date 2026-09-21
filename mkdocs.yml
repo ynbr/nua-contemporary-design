@@ -47,6 +47,7 @@ markdown_extensions:
 nav:
   - はじめに: index.md
   - 授業日程: schedule.md
+  - 事例集: cases.md
   - 担当教員: about.md
   - 講義:
       - 第1回 デザインという近代の発明: lectures/01-what-is-design.md
