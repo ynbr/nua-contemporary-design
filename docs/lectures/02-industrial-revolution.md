@@ -34,8 +34,8 @@
 
 ## 7. 参考文献・リンク
 
-[^kriegel]: Lara Kriegel, *Grand Designs: Labor, Empire, and the Museum in Victorian Culture*, Duke University Press, 2007. DOI: [10.1057/9781137434715.0007](https://doi.org/10.1057/9781137434715.0007)
-[^adamson]: Glenn Adamson, *The Invention of Craft*, Bloomsbury, 2013. DOI: [10.5860/choice.51-0654](https://doi.org/10.5860/choice.51-0654)
+[^kriegel]: Lara Kriegel, *Grand Designs: Labor, Empire, and the Museum in Victorian Culture*, Duke University Press, 2007. DOI: [10.1215/9780822390534](https://doi.org/10.1215/9780822390534)
+[^adamson]: Glenn Adamson, *The Invention of Craft*, Bloomsbury, 2013. DOI: [10.5040/9781350036123](https://doi.org/10.5040/9781350036123)
 
 ---
 
