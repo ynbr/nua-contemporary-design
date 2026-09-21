@@ -1,0 +1,60 @@
+site_name: 現代デザイン論
+site_url: https://ynbr.github.io/nua-contemporary-design/
+site_description: 名古屋芸術大学 芸術学部 2026年度後期・現代デザイン論 講義レジュメ
+site_author: 浅野 翔
+copyright: © 2026 浅野 翔 — 名古屋芸術大学「現代デザイン論」講義資料
+
+theme:
+  name: material
+  language: ja
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - content.code.copy
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: ダークモードに切り替え
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: ライトモードに切り替え
+
+markdown_extensions:
+  - footnotes
+  - attr_list
+  - md_in_html
+  - def_list
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  # 日本語見出しからアンカーを生成する（既定の slugify は非ASCIIを落として _1 等になる）
+  - toc:
+      permalink: true
+      toc_depth: 3
+      slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
+
+nav:
+  - はじめに: index.md
+  - 授業日程: schedule.md
+  - 担当教員: about.md
+  - 講義:
+      - 第1回 デザインという近代の発明: lectures/01-what-is-design.md
+      - 第2回 産業革命と生産・工芸・生活: lectures/02-industrial-revolution.md
+      - 第3回 機能主義と標準化: lectures/03-functionalism-standardization.md
+
+extra:
+  social:
+    - icon: material/school
+      link: https://www.nua.ac.jp/
+      name: 名古屋芸術大学
