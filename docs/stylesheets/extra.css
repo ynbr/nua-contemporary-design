@@ -1,0 +1,25 @@
+/* 独自のアドモニション `casestudy`（事例）。
+   Material の組み込みには無いので、アイコンと色をここで定義する。
+   使い方:  !!! casestudy "プロジェクト名"
+   アイコンは Material Design Icons の folder（事例のファイル）。 */
+
+:root {
+  --md-admonition-icon--casestudy: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,4H4C2.89,4 2,4.89 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V8C22,6.89 21.1,6 20,6H12L10,4Z"/></svg>');
+}
+
+.md-typeset .admonition.casestudy,
+.md-typeset details.casestudy {
+  border-color: #8d6e63;
+}
+
+.md-typeset .casestudy > .admonition-title,
+.md-typeset .casestudy > summary {
+  background-color: rgba(141, 110, 99, 0.1);
+}
+
+.md-typeset .casestudy > .admonition-title::before,
+.md-typeset .casestudy > summary::before {
+  background-color: #8d6e63;
+  -webkit-mask-image: var(--md-admonition-icon--casestudy);
+          mask-image: var(--md-admonition-icon--casestudy);
+}

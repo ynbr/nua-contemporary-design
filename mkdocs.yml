@@ -51,6 +51,10 @@ nav:
   - 担当教員: about.md
   - 講義:
       - 第1回 デザインという近代の発明: lectures/01-what-is-design.md
+      - 第2回 産業革命による生産・工芸・生活の変化: lectures/02-industrial-revolution.md
+
+extra_css:
+  - stylesheets/extra.css
 
 extra:
   social:
