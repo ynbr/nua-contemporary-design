@@ -52,6 +52,7 @@ nav:
   - 講義:
       - 第1回 デザインという近代の発明: lectures/01-what-is-design.md
       - 第2回 産業革命による生産・工芸・生活の変化: lectures/02-industrial-revolution.md
+      - 第3回 機能主義と標準化が描いた社会像: lectures/03-functionalism-standardization.md
 
 extra_css:
   - stylesheets/extra.css
