@@ -216,7 +216,7 @@ NID の設立には、アメリカのフォード財団が資金を出してい�
 ## 11. 参考文献
 
 [^buechner]: Dieter Büchner, "Von Weimar nach Geislingen," *Denkmalpflege in Baden-Württemberg*, 2019, Heft 2. DOI: [10.11588/nbdpfbw.2019.2.62758](https://doi.org/10.11588/nbdpfbw.2019.2.62758)
-[^bauhausmaedels]: Carol Anne Costabile-Heming, review of *4 "Bauhausmädels": Gertrud Arndt, Marianne Brandt, Margarete Heumann, Margaretha Reichardt* (Angermuseum Erfurt et al., eds., Sandstein, 2019), *Feminist German Studies* 37(2), 2021. DOI: [10.1353/fgs.2021.0014](https://doi.org/10.1353/fgs.2021.0014)
+[^bauhausmaedels]: Carol Anne Costabile-Heming, review of *4 "Bauhausmädels": Gertrud Arndt, Marianne Brandt, Margarete Heumann, Margaretha Reichardt* (Angermuseum Erfurt et al., eds., Sandstein, 2019), *Feminist German Studies* 37(2), 2021, pp.113–115. [JSTOR](https://www.jstor.org/stable/27240974)（DOI: 10.1353/fgs.2021.0014）
 [^armstrong]: Leah Armstrong, "Steering a Course Between Professionalism and Commercialism: The Society of Industrial Artists and the Code of Conduct for the Professional Designer 1945–1975," *Journal of Design History* 29(2), 2016. DOI: [10.1093/jdh/epv038](https://doi.org/10.1093/jdh/epv038)
 [^ober]: Maya Ober, "Exploring the Unseen: Archival Ethnography of Rejected Applications at the Ulm School of Design (HfG Ulm)," *Journal of Design History* 38(1), 2025（オンライン公開 2024）. DOI: [10.1093/jdh/epae014](https://doi.org/10.1093/jdh/epae014)
 [^cross]: Nigel Cross, "Designerly Ways of Knowing," *Design Studies* 3(4), 1982, pp. 221–227. DOI: [10.1016/0142-694X(82)90040-0](https://doi.org/10.1016/0142-694X(82)90040-0)

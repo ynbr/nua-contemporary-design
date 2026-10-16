@@ -1,0 +1,5 @@
+{% extends "base.html" %}
+{#- 旧版ページ（front matter に robots: noindex）だけに meta を出す。404 では page が空 -#}
+{% block extrahead %}
+  {% if page and page.meta and page.meta.robots %}<meta name="robots" content="{{ page.meta.robots }}">{% endif %}
+{% endblock %}

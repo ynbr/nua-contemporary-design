@@ -6,6 +6,8 @@ copyright: © 2026 浅野 翔 — 名古屋芸術大学「現代デザイン論�
 
 theme:
   name: material
+  # 旧版ページの front matter の robots を meta タグに出す（overrides/main.html）
+  custom_dir: overrides
   language: ja
   features:
     - navigation.sections
@@ -55,6 +57,9 @@ nav:
       - 第3回 機能主義と標準化が描いた社会像: lectures/03-functionalism-standardization.md
       - 第4回 デザイン教育と専門職の成立: lectures/04-design-education-profession.md
 
+# 授業時点の旧版（NN-…-YYYY-MM-DD.md）は目次に載せない。noindex は各ページの front matter
+not_in_nav: |
+  lectures/*-20??-??-??.md
 extra_css:
   - stylesheets/extra.css
 
