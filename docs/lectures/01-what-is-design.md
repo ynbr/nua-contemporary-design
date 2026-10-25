@@ -222,7 +222,7 @@
       原則の最初に「影響を受ける人が設計の中心にいるか」が置かれています。(1)の案内表示と並べて見てください。
     - **[Cooking Sections — CLIMAVORE: On Tidal Zones](https://www.cooking-sections.com/CLIMAVORE-On-Tidal-Zones)** —
       干ばつや地盤沈下に合わせた「季節」を立て、**食べ方の枠組みのほう**をつくり直す実践。(2)と同じ、枠組みのデザインです。
-    - **[Dunne & Raby — Weeds, Aliens and Other Stories](https://dunneandraby.co.uk/content/projects/74/0)** —
+    - **[Dunne & Raby — Weeds, Aliens and Other Stories](https://web.archive.org/web/20250624100823/https://dunneandraby.co.uk/content/projects/74/0)** —
       スペキュラティブデザインを提唱した二人の、1994〜98年の「心理的な家具」。
       **いまあるものは、選ばれた一つの形でしかありません。**
 

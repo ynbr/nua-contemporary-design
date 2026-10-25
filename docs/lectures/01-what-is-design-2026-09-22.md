@@ -256,7 +256,7 @@ search:
     料理でも商品でもなく、**食べ方の枠組みのほう**をつくり直しています。(2)の時間割や
     シラバスと同じ、枠組みのデザインです。
 
-    **[Dunne & Raby — Weeds, Aliens and Other Stories](https://dunneandraby.co.uk/content/projects/74/0)**
+    **[Dunne & Raby — Weeds, Aliens and Other Stories](https://web.archive.org/web/20250624100823/https://dunneandraby.co.uk/content/projects/74/0)**
     「こうもありえた」という別の可能性を、実際にものをつくって示す**スペキュラティブ
     デザイン**を提唱した二人の、1994〜98年の仕事です。彼らはこれを「**心理的な家具**」と
     呼びました。出発点は「椅子やテーブルや棚が、この世界にあとどれだけ必要なのか」という

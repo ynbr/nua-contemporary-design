@@ -44,7 +44,7 @@
 
 ## ありえたかもしれない世界を見せる
 
-**[Dunne & Raby](https://dunneandraby.co.uk/content/projects)**
+**[Dunne & Raby](https://web.archive.org/web/20261005054548/https://dunneandraby.co.uk/content/projects)**
 : スペキュラティブデザインを提唱した二人のプロジェクト一覧。（第10回）
 
 ## 誰のためのデザインかを問う
