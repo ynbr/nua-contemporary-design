@@ -18,6 +18,7 @@
 - [第3回 機能主義と標準化が描いた社会像](lectures/03-functionalism-standardization.md) — 「機能」は誰にとっての機能だったのか
 - [第4回 デザイン教育と専門職の成立](lectures/04-design-education-profession.md) — 「よいデザイナー」は誰が決めてきたのか
 - [第5回 日本の図案・工芸・民藝と近代化](lectures/05-japan-zuan-kogei-mingei.md) — 日本のものづくりの「デザイン」は、西欧から来た考え方だけで説明できるのか
+- [第6回 商品・広告・ブランドが生む意味と欲望](lectures/06-commodity-sign-brand.md) — 「欲しい」は、どこから来るのか
 
 全15回の日程とテーマは[授業日程](schedule.md)にあります。レジュメは各回の授業前に公開します。
 
