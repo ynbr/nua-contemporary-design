@@ -58,6 +58,7 @@ nav:
       - 第4回 デザイン教育と専門職の成立: lectures/04-design-education-profession.md
       - 第5回 日本の図案・工芸・民藝と近代化: lectures/05-japan-zuan-kogei-mingei.md
       - 第6回 商品・広告・ブランドが生む意味と欲望: lectures/06-commodity-sign-brand.md
+      - 第7回 問題解決とシステム思考: lectures/07-problem-solving-systems.md
 
 # 授業時点の旧版（NN-…-YYYY-MM-DD.md）は目次に載せない。noindex は各ページの front matter
 not_in_nav: |

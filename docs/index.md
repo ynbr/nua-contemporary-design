@@ -19,6 +19,7 @@
 - [第4回 デザイン教育と専門職の成立](lectures/04-design-education-profession.md) — 「よいデザイナー」は誰が決めてきたのか
 - [第5回 日本の図案・工芸・民藝と近代化](lectures/05-japan-zuan-kogei-mingei.md) — 日本のものづくりの「デザイン」は、西欧から来た考え方だけで説明できるのか
 - [第6回 商品・広告・ブランドが生む意味と欲望](lectures/06-commodity-sign-brand.md) — 「欲しい」は、どこから来るのか
+- [第7回 問題解決とシステム思考](lectures/07-problem-solving-systems.md) — 解くべき問題は最初からそこにあるのか
 
 全15回の日程とテーマは[授業日程](schedule.md)にあります。レジュメは各回の授業前に公開します。
 
